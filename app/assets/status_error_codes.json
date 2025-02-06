@@ -1,0 +1,37 @@
+[
+    {
+        "CodeNumber": 1,
+        "Message": "Controller control program started.",
+        "Remedy": "-",
+        "Note1": "-",
+        "Note2": "-"
+    },
+    {
+        "CodeNumber": 2,
+        "Message": "Termination due to low voltage of the power supply.",
+        "Remedy": "-",
+        "Note1": "-",
+        "Note2": "-"
+    },
+    {
+        "CodeNumber": 1001,
+        "Message": "Operation Failure. Command parameter is invalid.",
+        "Remedy": "-",
+        "Note1": "-",
+        "Note2": "-"
+    },
+    {
+        "CodeNumber": 1002,
+        "Message": "Requested data cannot be accessed. The data is not set up or the range is invalid.",
+        "Remedy": "Check whether the target I/O, variables, and tasks exist.",
+        "Note1": "-",
+        "Note2": "-"
+    },
+    {
+        "CodeNumber": 400,
+        "Message": "The battery alarm for the controller occurred. Replace the battery and reset the alarm.",
+        "Remedy": "Replace the battery and reset the alarm.",
+        "Note1": "-",
+        "Note2": "-"
+    }
+]
